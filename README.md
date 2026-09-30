@@ -14,4 +14,4 @@ Rako est une application d'apprentissage du manouche qui fonctionne entièrement
 
 **Suppression.** Vous pouvez effacer toutes vos données à tout moment depuis *Profil › Effacer ma progression*, ou en désinstallant l'application.
 
-**Contact** : solana3.141592@gmail.com
+**Contact** : io.eco.ia@gmail.com
